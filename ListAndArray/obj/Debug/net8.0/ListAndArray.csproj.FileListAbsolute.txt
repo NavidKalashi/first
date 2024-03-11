@@ -1,0 +1,14 @@
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.exe
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.deps.json
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.runtimeconfig.json
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.dll
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\bin\Debug\net8.0\ListAndArray.pdb
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.AssemblyInfoInputs.cache
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.AssemblyInfo.cs
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.csproj.CoreCompileInputs.cache
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.dll
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\refint\ListAndArray.dll
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.pdb
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ListAndArray.genruntimeconfig.cache
+C:\Users\kalas\OneDrive\Desktop\asp.net\ListAndArray\ListAndArray\obj\Debug\net8.0\ref\ListAndArray.dll
